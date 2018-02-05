@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-require_once('Shorten.php');
+require_once('src/Shorten.php');
 $shorten = new \Marcgoertz\Shorten\Shorten;
 ?>
 <p>
